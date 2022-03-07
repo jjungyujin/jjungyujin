@@ -23,3 +23,6 @@
     <a href="https://www.instagram.com/j_yujin_5"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
   </p>
 </div>
+
+![](https://github.com/jjungyujin/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/jjungyujin/github-stats-transparent/blob/output/generated/languages.svg)
