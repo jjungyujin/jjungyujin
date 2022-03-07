@@ -1,10 +1,8 @@
-<name>
-  <h1 align="center">Yujin Jung 🤗</h1>
-</name>
+<header>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Yujin%20Jung%20🤗&fontSize=70" />
+</header>        
 
-<a size=100px href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjungyujin&count_bg=%23E9AFAF&title_bg=%23706E6E&icon=github.svg&icon_color=%23DFB0B0&title=hits&edge_flat=false"/></a>             
-
-<div>
+<div align='center'>
   <h3>✨ Languages and Tools ✨</h3>
   <p id='languages'>
     <img src="https://img.shields.io/badge/Python-000000?style=round-square&logo=Python&logoColor=blue"/>
@@ -18,5 +16,10 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=round-square&logo=GitHub&logoColor=bluegreen"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=round-square&logo=Visual Studio Code&logoColor=007ACC"/>
     <img src="https://img.shields.io/badge/Bootstrap-000000?style=round-square&logo=Bootstrap&logoColor=7952B3"/>
+  </p>
+  <h3>📮 Contact Me 📮</h3>
+  <p>
+    <a href="mailto:wjd1dbwls@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
+    <a href="https://www.instagram.com/j_yujin_5"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
   </p>
 </div>
