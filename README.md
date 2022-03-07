@@ -9,7 +9,9 @@
       I recently joined the WAI project.<br>
       I'm learning ML/DL.
     </p>
-  <h3 style='margin-top: 100px'>✨ Languages and Tools ✨</h3>
+  <br>
+
+  <h3>✨ Languages and Tools ✨</h3>
     <h5>Web Programming</h5>
       <img src="https://img.shields.io/badge/HTML-000000?style=round-square&logo=HTML5&logoColor=red"/>
       <img src="https://img.shields.io/badge/CSS-000000?style=round-square&logo=css3&logoColor=blue"/>
@@ -24,7 +26,9 @@
     <h5>DevOPS</h5>
       <img src="https://img.shields.io/badge/GitHub-000000?style=round-square&logo=GitHub&logoColor=bluegreen"/>
       <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=round-square&logo=Visual Studio Code&logoColor=007ACC"/>
-  <h3 style='margin-top: 100px'>📮 Contact Me 📮</h3>
+  <br>
+  <br>
+  <h3>📮 Contact Me 📮</h3>
   <p>
     <a href="mailto:wjd1dbwls@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
     <a href="https://www.instagram.com/j_yujin_5"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
