@@ -5,7 +5,7 @@
 <div align='center'>
   <h3>👋 Hi, I'm Yujin 👋</h3>
     <p>
-      I'm a research student at <a src="https://github.com/TeamLab">TEAMLAB</a>, Pukyong National University.<br>
+      I'm a research student at <a href="https://github.com/TeamLab">TEAMLAB</a>, Pukyong National University.<br>
       I recently joined the WAI project.<br>
       I'm learning ML/DL.
     </p>
