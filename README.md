@@ -1,6 +1,6 @@
 <header>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD4DF&height=300&section=header&text=Yujin%20Jung%20🤗&fontSize=70" />
-</header>        
+</header>
 
 <div align='center'>
   <h3>👋 Hi, I'm Yujin 👋</h3>
@@ -34,6 +34,3 @@
     <a href="https://www.instagram.com/j_yujin_5"><img src="https://img.shields.io/badge/Instagram-000000?style=round-square&logo=Instagram&logoColor=E4405F"/></a>
   </p>
 </div>
-
-![](https://github.com/jjungyujin/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/jjungyujin/github-stats-transparent/blob/output/generated/languages.svg)
